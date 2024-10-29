@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelhornick81
-- 👀 I’m interested in making vidoe games
+- 👀 I’m interested in making video games
 - 🌱 I’m currently learning Unity
 - ⚡ Fun fact: mudkip is my favorite pokemon 
 
